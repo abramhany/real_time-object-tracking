@@ -8,7 +8,7 @@ This repository provides a Python implementation of a high-performance object tr
 * **YOLOv11 Integration**: High-accuracy object detection.
 * **DeepSORT Tracking**: Maintains consistent object IDs across frames, even through partial occlusions.
 * **GPU Acceleration**: Native CUDA support for real-time inference.
-* **Auto-rendering**: Generates a processed video file (`.avi`) with bounding boxes and tracking IDs.
+* **Auto-rendering**: Generates a processed video file (`.mp4`) with bounding boxes and tracking IDs.
 
 ## 🛠️ Installation
 
